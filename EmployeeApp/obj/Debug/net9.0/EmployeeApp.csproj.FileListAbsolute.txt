@@ -1,0 +1,15 @@
+/Users/sowmya/employee app/EmployeeApp/bin/Debug/net9.0/EmployeeApp
+/Users/sowmya/employee app/EmployeeApp/bin/Debug/net9.0/EmployeeApp.deps.json
+/Users/sowmya/employee app/EmployeeApp/bin/Debug/net9.0/EmployeeApp.runtimeconfig.json
+/Users/sowmya/employee app/EmployeeApp/bin/Debug/net9.0/EmployeeApp.dll
+/Users/sowmya/employee app/EmployeeApp/bin/Debug/net9.0/EmployeeApp.pdb
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.AssemblyInfoInputs.cache
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.AssemblyInfo.cs
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.csproj.CoreCompileInputs.cache
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.sourcelink.json
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.dll
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/refint/EmployeeApp.dll
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.pdb
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/EmployeeApp.genruntimeconfig.cache
+/Users/sowmya/employee app/EmployeeApp/obj/Debug/net9.0/ref/EmployeeApp.dll
