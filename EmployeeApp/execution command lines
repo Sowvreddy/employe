@@ -1,0 +1,7 @@
+ step-1: clone the project to vscode
+ step-2: then open new terminal ans search for ur floder path where is it saved
+ step-3: now give metha command line first dotnet build
+ step-3: its runs after give the command line as dotnet run
+ step-4: then now directly give the command line open employees.html now browser will dierctli opened with execution od the table
+ 
+ 
